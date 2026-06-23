@@ -157,12 +157,10 @@ PvP Stats was built to give SMP communities a competitive edge — tracking kill
 
 Running a Minecraft SMP, making content, and slowly picking up development along the way. Still learning, but building real things.
 
-- Run and manage a live Minecraft SMP server — plugins, configs, player issues, the works
 - Built some Fabric client mods (with a lot of trial and error)
-- Grew a Discord from scratch to 300+ members and set up bots to keep it running
+- Grew a Discord from scratch to 500+ members and set up bots to keep it running
 - Post short-form Minecraft content on Instagram and TikTok
 - Putting together a Django web app as a side project — learning as I build
-- Dug into server logs to catch suspicious player activity and handled a UUID migration
 
 ![Java](https://img.shields.io/badge/Java-6A0DAD?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B0082?style=flat-square&logo=python&logoColor=white)
@@ -179,26 +177,10 @@ Running a Minecraft SMP, making content, and slowly picking up development along
 
 | Recognition | Details |
 |:---:|:---|
-| 🎮 SMP Operator | Running a live Minecraft SMP — keeping it alive is harder than it sounds |
 | 🔧 Mod Tinkerer | Made some Fabric mods that actually work |
-| 👥 Community Builder | Built a Discord from zero to 300+ members |
-| 🔐 Server Sheriff | Caught an x-ray exploit and sorted a messy UUID migration |
+| 👥 Community Builder | Built a Discord from zero to 500+ members |
 | 📱 Content Creator | Posting Minecraft content on Instagram & TikTok |
 | 🌐 Hobby Dev | Django web app in progress — learning by doing |
-
-</div>
-
----
-
-## 📜 Certifications & Profiles
-
-<div align="center">
-
-### Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-lwkSlick-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lwkSlick)
-[![HackerRank](https://img.shields.io/badge/HackerRank-lwkSlick-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/lwkSlick)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-lwkSlick-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/lwkSlick)
 
 </div>
 
