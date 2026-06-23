@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,3D007A&height=200&section=header&text=lwkSlick&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Minecraft%20Developer%20%7C%20Content%20Creator%20%7C%20Modder&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Minecraft+Mods+%26+Tools;Full+Stack+Django+Developer;SMP+Server+Administrator;Content+Creator+%7C+Community+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Tinkering+with+Minecraft+Mods;Running+an+SMP+Server;Learning+Django+%26+Python;Content+Creator+%7C+Community+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,26 +25,24 @@
 
 ```yaml
 name: lwkSlick
-role: Minecraft Developer & Content Creator
+role: Minecraft Content Creator & Developer (still learning)
 focus:
-  - Fabric mod development (Java)
-  - Full Stack web development (Django / Python)
-  - Minecraft SMP server administration
-  - Community building & content creation
+  - Tinkering with Fabric mods (Java)
+  - Building stuff with Django / Python
+  - Running & managing a Minecraft SMP server
+  - Growing a community and making content
 platforms:
   - Instagram
   - TikTok
   - Discord (300+ members)
-engineering_mindset:
-  - User-first product thinking
-  - Clean, maintainable code architecture
-  - Security-conscious server administration
-  - Data-driven player experience design
+honest_take:
+  - Learning as I go — mostly hands-on
+  - Server admin is where I'm most comfortable
+  - Code side is a work in progress, but shipping anyway
 open_to:
-  - Mod commissions & collaborations
-  - Open source contributions
+  - Collabs with other Minecraft creators
   - Content partnerships
-  - Developer roles (backend / full stack)
+  - Feedback on my projects
 ```
 
 ---
@@ -73,14 +71,13 @@ open_to:
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| Fabric Mod Development | ████████░░ Advanced | Mixins, YACL config, ModMenu, event hooks |
-| Django Web Development | ███████░░░ Intermediate | Multi-role auth, template inheritance, Bootstrap |
-| Minecraft Server Admin | █████████░ Expert | Paper/Spigot, plugin ecosystems, log analysis |
-| Java (Minecraft) | ████████░░ Advanced | Client-side mods, rendering, packet interception |
-| Python | ███████░░░ Intermediate | Django, scripting, log parsing, automation |
-| Content Creation | █████████░ Expert | Short-form video, community management, Discord |
-| Linux / Bash | ███████░░░ Intermediate | Server management, scripting, file systems |
-| Security & Anti-Cheat | ██████░░░░ Developing | UUID migration, exploit detection, IP analysis |
+| Minecraft Server Admin | ███████░░░ Comfortable | Paper/Spigot, plugins, log digging, player management |
+| Content Creation | ███████░░░ Comfortable | Short-form video, Discord community, bot setup |
+| Fabric Mod Development | █████░░░░░ Learning | YACL config, ModMenu, event hooks — figuring it out |
+| Django / Python | █████░░░░░ Learning | Multi-role auth, templates, Bootstrap theming |
+| Java (Minecraft) | █████░░░░░ Learning | Client-side mods, following documentation closely |
+| Linux / Bash | ████░░░░░░ Basic | Server commands, file management, reading logs |
+| Security & Anti-Cheat | ███░░░░░░░ Dabbling | UUID migration, spotting suspicious activity |
 
 ---
 
@@ -158,14 +155,14 @@ PvP Stats was built to give SMP communities a competitive edge — tracking kill
 **Minecraft Content Creator & Developer** · *Independent*
 `2022 – Present`
 
-Building a full creative and technical operation around Minecraft — from server infrastructure and mod development to short-form video content and community management.
+Running a Minecraft SMP, making content, and slowly picking up development along the way. Still learning, but building real things.
 
-- Operate and administrate a live Minecraft SMP server on Paper/Spigot with custom plugin configurations
-- Developed client-side Fabric mods in Java targeting content creator and PvP use cases
-- Grew a Discord community from 0 to 300+ members with structured bots (Sapphire, ProBot, Carl-bot)
-- Produce and publish short-form Minecraft content across Instagram and TikTok
-- Engineered a multi-role Django web application (Administrator / User / Guest) with Bootstrap theming
-- Conduct server security reviews including log analysis, UUID auditing, and exploit detection
+- Run and manage a live Minecraft SMP server — plugins, configs, player issues, the works
+- Built some Fabric client mods (with a lot of trial and error)
+- Grew a Discord from scratch to 300+ members and set up bots to keep it running
+- Post short-form Minecraft content on Instagram and TikTok
+- Putting together a Django web app as a side project — learning as I build
+- Dug into server logs to catch suspicious player activity and handled a UUID migration
 
 ![Java](https://img.shields.io/badge/Java-6A0DAD?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B0082?style=flat-square&logo=python&logoColor=white)
@@ -182,12 +179,12 @@ Building a full creative and technical operation around Minecraft — from serve
 
 | Recognition | Details |
 |:---:|:---|
-| 🎮 SMP Operator | Founded and operate a live Minecraft SMP with active player base |
-| 🔧 Mod Author | Released production Fabric mods targeting real creator pain points |
-| 👥 Community Builder | Scaled Discord server to 300+ engaged members |
-| 🔐 Security Researcher | Identified and mitigated x-ray exploit & UUID probing on live server |
-| 📱 Content Creator | Active short-form creator across Instagram & TikTok |
-| 🌐 Full Stack Developer | Shipped multi-role Django web app with scoped Bootstrap theming |
+| 🎮 SMP Operator | Running a live Minecraft SMP — keeping it alive is harder than it sounds |
+| 🔧 Mod Tinkerer | Made some Fabric mods that actually work |
+| 👥 Community Builder | Built a Discord from zero to 300+ members |
+| 🔐 Server Sheriff | Caught an x-ray exploit and sorted a messy UUID migration |
+| 📱 Content Creator | Posting Minecraft content on Instagram & TikTok |
+| 🌐 Hobby Dev | Django web app in progress — learning by doing |
 
 </div>
 
@@ -264,23 +261,21 @@ Building a full creative and technical operation around Minecraft — from serve
 ```yaml
 current_focus:
   learning:
-    - Advanced Fabric mixin patterns
-    - Minecraft render pipeline internals
-    - REST API design with Django REST Framework
-    - PostgreSQL for production Django deployments
+    - How Fabric mods actually work under the hood
+    - Django — templates, views, making it not break
+    - Reading more documentation before asking for help
   building:
-    - GhostMode v2 — expanded privacy controls
-    - PvP Stats plugin — leaderboard web dashboard
-    - SMP server web portal (Django)
+    - GhostMode — privacy mod for streamers
+    - PvP Stats — kill/death tracker for my SMP
+    - Django web app for my server (work in progress)
   exploring:
-    - Kotlin for Minecraft plugin development
-    - OBS scripting for automated content workflows
-    - Discord bot development (Python / discord.py)
+    - OBS workflows for recording SMP sessions
+    - Python scripting for server log stuff
+    - Whatever the next thing is
   open_to:
-    - Fabric / Paper mod commissions
-    - Content collaboration with other creators
-    - Backend / full stack developer roles
-    - Open source Minecraft tooling contributions
+    - Collabs with other Minecraft creators
+    - Feedback on my projects
+    - Anyone who wants to play on the SMP
 ```
 
 ---
@@ -300,7 +295,7 @@ current_focus:
 
 <div align="center">
 
-*"Ship things that work. Build things that matter. Document everything."*
+*"Still figuring it out — but shipping anyway."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,3D007A&height=120&section=footer&animation=fadeIn" width="100%"/>
 
